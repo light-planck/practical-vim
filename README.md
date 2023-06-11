@@ -3,7 +3,7 @@
 ## About this
 
 This is the source code for Practical Vim Second Edition.  
-You can download it [here](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/)  
+You can download it [here](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/). 
 
 ## Author 
 Drew Neil is a programmer, trainer, and entrepreneur.  
